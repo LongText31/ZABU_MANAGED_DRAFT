@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service Definition for Draft Scenario'
+define service ZSD_TRAVEL_DRAFT_SCENARIO {
+  expose ZC_TRAVEL_a_d;
+  expose zc_booking_a_d;
+  expose ZC_BookingSupplement_A_D;
+}
